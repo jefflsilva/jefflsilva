@@ -8,9 +8,9 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently studying Vuejs and Nodejs.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2022 Goals: Create a new complete front and backend project and find a job.
 
 
 ### SKILLS
