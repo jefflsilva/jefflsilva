@@ -14,6 +14,6 @@
 
 
 ### SKILLS
-HTML/CSS3, JavaScript, Responsive Web Design, Vuejs, Api, MySQL, NodeJs Basic
+HTML/CSS3, JavaScript, Typescript, Responsive Web Design, Vuejs, Api, MySQL, NodeJs.
 
 :mailbox: How to reach me jeffersondevlsilva@gmail.com
