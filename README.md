@@ -1,3 +1,4 @@
+
 <h1 align="center">Olá, eu sou o Jefferson Leite da Silva 👋</h1>
 
 <p align="center">
@@ -13,7 +14,7 @@
 ---
 
 ### Sobre Mim
-👋 Olá! Eu sou um desenvolvedor Fullstack com 4 anos de experiência em desenvolvimento web, trabalhando principalmente com JavaScript, Node.js, Vue.js e TypeScript. Atualmente, atuo em uma empresa brasileira especializada em gestão e pagamentos para servidores públicos.
+👋 Olá! Eu sou um desenvolvedor Fullstack com 4 anos de experiência em desenvolvimento web, trabalhando principalmente com JavaScript, Node.js, Vue.js e TypeScript. Atualmente, atuo na Thera, uma empresa com mais de 18 anos de mercado, especializada em soluções digitais para grandes empresas como TV Globo, MetrôRio, Raízen, IBMEC, Fundação Roberto Marinho, Carrefour, ONS, Odebrecht, L’Oréal e RioGaleão.
 
 ---
 
@@ -58,15 +59,26 @@
 
 ### 💼 Experiência Profissional
 
-- **GOAT Soluções – Fortaleza/CE, Brasil**  
-  *Desenvolvedor Fullstack*  
-  Março/2022 – Atualmente  
-  Desenvolvimento de aplicações escaláveis com foco em Vue.js, Node.js, Express.js, TypeScript e PHP. Criação de componentes reutilizáveis e integração de WebSockets para comunicação em tempo real.
+- **Thera – Rio de Janeiro/RJ, Brasil**  
+  *Desenvolvedor Web*  
+  Dezembro/2024 – Atualmente  
+  Criação de soluções digitais para grandes empresas. Desenvolvimento de aplicações escaláveis com foco em Vue.js, Node.js e TypeScript. Implementação de testes automatizados utilizando Jest e Vitest para garantir a qualidade e eficiência das soluções.
 
-- **Port Louis – São Paulo/SP, Brasil**  
-  *Estagiário*  
+- **GOAT Soluções Digitais – Fortaleza/CE, Brasil**  
+  *Desenvolvedor Web*  
+  Março/2022 – Dezembro/2024  
+  Desenvolvimento de aplicações escaláveis com foco em Vue.js, Node.js, Express.js e TypeScript. Criação de componentes e classes reutilizáveis que atuam como um framework interno, proporcionando agilidade e padronização para a equipe de desenvolvimento. Utilização de PHP para desenvolver endpoints que geram documentos PDF, integrando diversas funcionalidades. Implementação de WebSocket para comunicação em tempo real nas aplicações. Participação em reuniões com clientes para compreender suas necessidades e discutir novas funcionalidades e módulos. Colaboração com a equipe para planejar a comunicação entre o back-end e o front-end, assegurando uma integração eficiente e fluida.
+
+- **Port Louis – Remota**  
+  *Estagiário de Desenvolvimento Web*  
   Outubro/2021 – Março/2022  
-  Trabalhei com Vue.js, Node.js, Typescript e AWS (Lambda, SES, S3)
+  Desenvolvimento de aplicações escaláveis utilizando Vue.js, Node.js, Express.js e TypeScript. Gerenciamento de dados com PostgreSQL. Implementação de funcionalidades na AWS, como Lambda, S3 e SES.
+
+- **Instituto Pró-Hemoce – Fortaleza/CE, Brasil**  
+  *Estagiário de Desenvolvimento*  
+  Junho/2021 – Outubro/2021  
+  Desenvolvimento de novas funcionalidades seguindo padrões de projeto e boas práticas. Desenvolvimento de landing pages.
+
 
 ---
 
