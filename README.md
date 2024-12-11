@@ -14,7 +14,7 @@
 ---
 
 ### Sobre Mim
-👋 Olá! Eu sou um desenvolvedor Fullstack com 4 anos de experiência em desenvolvimento web, trabalhando principalmente com JavaScript, Node.js, Vue.js e TypeScript. Atualmente, atuo na Thera, uma empresa com mais de 18 anos de mercado, especializada em soluções digitais para grandes empresas como TV Globo, MetrôRio, Raízen, IBMEC, Fundação Roberto Marinho, Carrefour, ONS, Odebrecht, L’Oréal e RioGaleão.
+👋 Olá! Eu sou um desenvolvedor Fullstack com 4 anos de experiência em desenvolvimento web, trabalhando principalmente com JavaScript, Node.js, Vue.js e TypeScript. Atualmente, atuo na Thera Solutions, uma empresa com mais de 18 anos de mercado, especializada em soluções digitais para grandes empresas como TV Globo, MetrôRio, Raízen, IBMEC, Fundação Roberto Marinho, Carrefour, ONS, Odebrecht, L’Oréal e RioGaleão.
 
 ---
 
